@@ -1,12 +1,10 @@
-[Pro/g/ramming Challenges v4.0]: programming_challanges_v40.png
-
 #Våra implementeringar av 145 Pro/g/ramming Challenges
 
 Start: 2018-09-18
 
 Slut: 20XX-XX-XX
 
-![Pro/g/ramming Challenges v4.0]
+![Pro/g/ramming Challenges v4.0](programming_challenges_v40.png)
 
 Framgenererad ordning:
 
